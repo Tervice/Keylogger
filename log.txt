@@ -1,0 +1,19 @@
+schoolworkspro.com
+github.com
+
+
+\x16Key.leftKey.upKey.upKey.downKey.leftKey.downKey.downKey.rightKey.backspaceKey.deleteKey.backspaceKey.upKey.upKey.downKey.down
+Key.rightKey.rightKey.shiftFrom this we can conlKey.backspaceclude that our keylogger is running fine.Key.shiftGit and Key.shiftKey.shiftKey.shiftGitKey.shiftHubKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.left\x05Key.right
+\x05Key.shiftKey.shiftGit initalizeKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.left\tKey.rightgit init
+clearKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceuserKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspacegit status
+\x16
+Key.shiftNext,Key.rightKey.upKey.down
+Key.backspaceKey.tabKey.rightKey.rightKey.rightKey.rightKey.right we need to configure our username and email.
+
+Key.backspaceKey.shiftGit configuration2Key.media_volume_downKey.media_volume_downKey.media_volume_downKey.media_volume_downKey.media_volume_downKey.media_volume_downKey.media_volume_downKey.media_volume_downKey.media_volume_downKey.media_volume_downKey.media_volume_downKey.media_volume_downKey.media_volume_downKey.media_volume_downKey.media_volume_downKey.media_volume_downKey.media_volume_downKey.media_volume_downKey.media_volume_downKey.media_volume_downKey.media_volume_downKey.downKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.backspaceKey.upKey.upKey.upKey.upKey.downKey.leftKey.rightKey.backspaceKey.downKey.downKey.downKey.downKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.right\tKey.down
+git config user.name Key.shift"Key.shiftAKey.backspaceKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftTerviceKey.backspaceKey.backspaceKey.backspaceKey.backspaceveKey.backspaceice"
+git config user.email Key.shift"pshasank5Key.shift@gmail.com"
+\x16
+\tKey.tabKey.shiftFinally, we can add the file and commit the project to repository.
+\tKey.shiftFKey.backspaceKey.shiftGit Key.shiftCommit
+\t
